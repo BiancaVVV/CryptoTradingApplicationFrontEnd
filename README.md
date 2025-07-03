@@ -16,3 +16,5 @@ Integration with Stripe API for real money deposits and withdrawals
 Technologies used: React (frontend), Java Spring Boot (backend), MySQL (database)
 
 The platform is scalable and plans to integrate AI predictions, multi-language support, dark mode, and mobile apps in the future.
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/b7428571-3e68-41f5-bea7-18757a30cdf4" />
+
