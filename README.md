@@ -1,5 +1,5 @@
 # CryptoTradingApplication
-This project is a web-based cryptocurrency trading platform developed as a diploma thesis by Bianca-Mihaela Veleanu. It aims to provide an intuitive, secure, and efficient trading experience for users interested in digital asset investments. The platform includes features such as:
+This project is a web-based cryptocurrency trading platform developed as a diploma thesis by me. It aims to provide an intuitive, secure, and efficient trading experience for users interested in digital asset investments. The platform includes features such as:
 
 User registration and login with email verification and optional two-factor authentication (2FA)
 
